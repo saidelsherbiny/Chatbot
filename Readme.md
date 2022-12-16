@@ -12,6 +12,9 @@ now install chatterbot library with:
 
 pip install chatterbot
 
+Install Chatterbot Corpus with:
+git clone https://github.com/gunthercox/chatterbot-corpus
+
 now run training_bot.py with
 
 python training_bot.py
